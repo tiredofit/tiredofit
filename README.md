@@ -7,7 +7,7 @@ It wasn't 2 days after landing that I became Chief Information Officer for a dis
 
 Meetings are great, but I still like to tinker and seriously interested in architecture, automation, and integration. I'm using Github to post alot of the work I have done for some of my clients around the world, sanitized for public consumption. 
 
-I'm also offering my skills to those seeking custom development of solutions in a wide variety of areas, and also seeking [sponsors](https://github.com/sponsors/tiredofit) who will help support further work. 
+I'm also offering my skills to those seeking custom development of solutions in a wide variety of areas, and also seeking [10 Github sponsors](https://github.com/sponsors/tiredofit) who will help support further work. 
 
 I'm also up for collaborating on open source projects, willing to offer skills in project management, mentorship, and steering.
 
