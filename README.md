@@ -12,3 +12,5 @@ I'm also offering my skills to those seeking custom development of solutions in 
 I'm also up for collaborating on open source projects, willing to offer skills in project management, mentorship, and steering.
 
 Lets chat! You can find me at dave at tiredofit dot ca.
+
+![Tired of I.T! github stats](https://github-readme-stats.vercel.app/api?username=tiredofit&show_icons=true)
