@@ -13,4 +13,5 @@ I'm also up for collaborating on open source projects, willing to offer skills i
 
 Lets chat! You can find me at dave at tiredofit dot ca.
 
-![Tired of I.T! github stats](https://github-readme-stats.vercel.app/api?username=tiredofit&show_icons=true)
+![Tired of I.T! github stats](https://github-readme-stats.vercel.app/api?username=tiredofit&show_icons=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiredofit&hide_title=true)
